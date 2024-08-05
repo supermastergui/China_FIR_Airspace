@@ -2,4 +2,5 @@
 适用于Euroscope扇区的China_FIR_Airspace数据
 
 请注意：请勿用于真实飞行，部分数据可能与有出入，敬请谅解
+
 使用Apache-2.0 license进行开源！
