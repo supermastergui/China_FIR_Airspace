@@ -1,0 +1,2 @@
+# China_FIR_Airspace
+适用于Euroscope扇区的China_FIR_Airspace数据
